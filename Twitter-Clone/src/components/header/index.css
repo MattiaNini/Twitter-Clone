@@ -1,0 +1,13 @@
+.Header img {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+}
+
+.TopBar {
+  display: flex;
+  justify-content: space-between;
+  align-content: space-between;
+  margin-bottom: 20px;
+  padding: 10px 14px;
+}
