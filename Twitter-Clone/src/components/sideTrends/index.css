@@ -1,0 +1,17 @@
+.SideTrends {
+  width: 30vh;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.6rem;
+  padding: 12px;
+  margin-bottom: 5px;
+  border-bottom: 1px solid lightgrey;
+  margin-left: 5px;
+  display: none;
+}
+
+.SideTrends__title {
+  font-weight: bold;
+  font-size: 0.8rem;
+  margin-top: 35px;
+  margin-left: -5px;
+}
